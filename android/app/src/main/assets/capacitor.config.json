@@ -1,0 +1,11 @@
+{
+	"appId": "com.vx4.sintetizador",
+	"appName": "Sintetizador VX-4",
+	"webDir": "www",
+	"android": {
+		"allowMixedContent": false,
+		"captureInput": false,
+		"webContentsDebuggingEnabled": false,
+		"backgroundColor": "#2B2E34"
+	}
+}

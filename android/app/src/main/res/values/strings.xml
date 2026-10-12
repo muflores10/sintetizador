@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Sintetizador VX-4</string>
+    <string name="title_activity_main">Sintetizador VX-4</string>
+    <string name="package_name">com.vx4.sintetizador</string>
+    <string name="custom_url_scheme">com.vx4.sintetizador</string>
+</resources>
